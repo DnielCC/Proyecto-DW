@@ -7,22 +7,21 @@
     <title>Inicio</title>
 </head>
 <header>
-    <div id="divNavBar">
-        <nav id="navBar">
+    <div class="divNavBar">
+        <nav class="navBar">
             <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Acerca de</a></li>
-                <li><a href="#">Contacto</a></li>
+                <li><a href="#">Iniciar Sesion </a></li>
+                
             </ul>
         </nav>
     </div>
 
 </header>
 <body>
-    <div id="divTitulo">
-    <h1 id="h1Dulces">
-        Dulces Ricos
-    </h1>
+    <div class="divTitulo">
+        <h1 class ="h1Dulces">
+            Dulces Ricos
+        </h1>
     </div>
 </body>
 </html>
