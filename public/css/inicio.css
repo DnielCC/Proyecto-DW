@@ -1,0 +1,5 @@
+body {
+    /* ¡Estilo de prueba para forzar la visibilidad! */
+    background-color: #f0f0f0 !important; 
+    border: 5px solid red !important;
+}
