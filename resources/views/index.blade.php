@@ -10,7 +10,7 @@
     <div class="divNavBar">
         <nav class="navBar">
             <ul>
-                <li><a href="#">Iniciar Sesion </a></li>
+                <li><a href="http://127.0.0.1:8000/login">Iniciar Sesion </a></li>
                 
             </ul>
         </nav>
